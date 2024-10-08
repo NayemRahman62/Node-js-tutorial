@@ -1,0 +1,2 @@
+These are texts from input file.
+Adding more lines in the file.
