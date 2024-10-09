@@ -1,0 +1,7 @@
+input
+
+These texts are from input.txt file
+
+These texts are from append.txt file
+
+Date created:Wed Oct 09 2024 10:45:14 GMT+0600 (Bangladesh Standard Time)
