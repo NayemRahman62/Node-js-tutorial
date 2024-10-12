@@ -4,7 +4,12 @@ const http=require('http')
 // create the server
 
 const server= http.createServer((request,response)=>{
-  console.log('New request received.')
+
+  response.end('This is my response for your request')
+  // console.log('New request received.')
+  // console.log(request)
+  // console.log(response)
+
 })
 
 
